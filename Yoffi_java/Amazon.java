@@ -1,3 +1,4 @@
+//My first program
 class AmazonUser{
     String name;
     String email;
