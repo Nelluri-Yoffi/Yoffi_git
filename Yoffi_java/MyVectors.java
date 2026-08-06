@@ -1,4 +1,3 @@
-
 import java.util.Vector;
 class MyVectors{
     public static void main(String[] args) {
@@ -6,7 +5,6 @@ class MyVectors{
         myVector.add("Harshini");
         myVector.add("Amu");
         myVector.add("Aafreen");
-        
         myVector.add("Harshini");
         myVector.add("Amu");
         myVector.add("Aafreen");
